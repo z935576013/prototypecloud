@@ -19,3 +19,4 @@ lzptc-config-server/.DS_Store
 lzptc-eureka-server/.DS_Store
 lzptc-service-alpha/.DS_Store
 lzptc-service-beta/.DS_Store
+lzptc-zuul-server/.DS_Store

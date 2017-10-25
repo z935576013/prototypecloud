@@ -15,3 +15,7 @@ lzptc-service-beta/.mvn/wrapper/maven-wrapper.jar
 lzptc-service-alpha/.mvn/wrapper/maven-wrapper.jar
 lzptc-config-server/.mvn/wrapper/maven-wrapper.jar
 lzptc-zuul-server/.mvn/wrapper/maven-wrapper.jar
+lzptc-config-server/.DS_Store
+lzptc-eureka-server/.DS_Store
+lzptc-service-alpha/.DS_Store
+lzptc-service-beta/.DS_Store

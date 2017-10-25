@@ -21,3 +21,6 @@ lzptc-service-alpha/.DS_Store
 lzptc-service-beta/.DS_Store
 lzptc-zuul-server/.DS_Store
 .DS_Store
+lzptc-parent/.project
+lzptc-parent/.settings/org.eclipse.core.resources.prefs
+lzptc-parent/.settings/org.eclipse.m2e.core.prefs

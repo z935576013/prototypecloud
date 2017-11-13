@@ -92,9 +92,10 @@
 	<modules>
 		<module>../lzptc-config-server</module>
 		<module>../lzptc-eureka-server</module>
+		<module>../lzptc-zuul-server</module>
+		<module>../lzptc-security-server</module>
 		<module>../lzptc-service-alpha</module>
 		<module>../lzptc-service-beta</module>
-		<module>../lzptc-zuul-server</module>
 	</modules>
 
 

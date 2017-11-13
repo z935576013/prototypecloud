@@ -3,9 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<artifactId>service-alpha</artifactId>
+	<artifactId>security-server</artifactId>
 	<packaging>jar</packaging>
-	<name>service-alpha</name>
+	<name>security-server</name>
 
 	<parent>
 		<groupId>com.merak.lzptc</groupId>
@@ -14,11 +14,11 @@
 		<relativePath>../lzptc-parent/pom.xml</relativePath>
 	</parent>
 
-
 	<dependencies>
+
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-feign</artifactId>
+			<artifactId>spring-cloud-starter-security</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>

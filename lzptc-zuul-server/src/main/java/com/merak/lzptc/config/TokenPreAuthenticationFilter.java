@@ -16,7 +16,7 @@ import org.springframework.security.oauth2.provider.authentication.OAuth2Authent
 import org.springframework.security.oauth2.provider.token.ResourceServerTokenServices;
 import org.springframework.web.filter.GenericFilterBean;
 
-import com.merak.lzptc.config.util.CookieUtils;
+import com.merak.lzptc.util.CookieUtils;
 
 public class TokenPreAuthenticationFilter extends GenericFilterBean {
 

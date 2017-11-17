@@ -8,7 +8,7 @@ import org.springframework.security.oauth2.provider.authentication.OAuth2Authent
 import org.springframework.security.web.authentication.session.SessionAuthenticationException;
 import org.springframework.security.web.authentication.session.SessionAuthenticationStrategy;
 
-import com.merak.lzptc.config.util.CookieUtils;
+import com.merak.lzptc.util.CookieUtils;
 
 public class TokenSessionAuthenticationStrategy implements SessionAuthenticationStrategy {
 

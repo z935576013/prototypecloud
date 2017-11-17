@@ -1,4 +1,4 @@
-package com.merak.lzptc.config.util;
+package com.merak.lzptc.util;
 
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
